@@ -1,0 +1,26 @@
+/* Algoritmo imprimircalificaciones
+britzy gomez
+ITPA
+TICS
+programa que pide las calificaciones y las imprimne en un renglon
+imprimir las calificaciones en un renglon
+*/
+VAR
+	INT calificacion1
+	INT calificacion2
+	INT calificacion3
+	INT calificacion4
+	INT calificacion5
+
+
+INICIO
+	ESCRIBIR("dame las cinco calificaciones en un renglon")
+	
+	LEER(calificacion1);
+	LEER(calificacion2);
+	LEER(calificacion3);
+	LEER(calificacion4);
+	LEER(calificacion5);
+	ELSE PRINT("en un renglon:, calificacion1, calificacion2, calificacion3, calificacion4, calificacion5")
+FIN
+	
