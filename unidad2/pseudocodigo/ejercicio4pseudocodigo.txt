@@ -1,0 +1,17 @@
+/* ejercicio 4 pseudocodigo
+britzy gomez
+ITPA
+TICS
+programa que pide mi nombre y apellido por deparado y que los imprima en un renglon
+*/
+Algoritmo imprimirminombreyapellidoporseparadoenunrenglon
+	CARACTER minombre;
+	CARACTER miapellido;
+INICIO
+	ESCRIBIR("¿cual es el nombre?")
+	ESCRIBIR("¿cual es el apellido?")
+	LEER(minombre);
+	LEER(miapellido);
+	ESCRIBIR(minombre);
+	ESCRIBIR(miapellido);
+	ELSE PRINT("en un renglon, minombre, miapellido")
