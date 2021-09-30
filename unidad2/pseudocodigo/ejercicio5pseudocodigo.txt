@@ -1,0 +1,14 @@
+/* ejercicio 5 pseudocodigo
+britzy gomez
+ITPA
+TICS
+programa que pide dos numeros e imprime el mayor
+*/
+Algoritmo imprimirelnumeromayor
+VAR
+	INT numero1 = 10
+	INT numero2 = 15
+IF si numero2 es mayor que numero1 entonces que imprima su valor
+IF numero2 > numero1;
+	print (numero2)
+FIN
