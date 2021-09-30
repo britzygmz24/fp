@@ -1,0 +1,13 @@
+/* ejercicio 3 pseudocodigo
+britzy gomez
+ITPA
+TICS
+programa que pide un numero y da su cuadrado
+*/
+Algoritmo cuadradodeunnumero
+sqr(20)
+INICIO
+	INT 20;
+	sqr(20)
+	ESCRIBIR("dame el numero y el cuadrado del numero")
+FIN
