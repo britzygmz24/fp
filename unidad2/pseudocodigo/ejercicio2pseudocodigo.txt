@@ -1,0 +1,24 @@
+/* ejercicio 2 pseudocodigo
+britzy gomez
+ITPA
+TICS
+programa que pide las calificacones y da el promedio
+promedio de 5 calificaciones
+*/
+Algoritmo promedio5calificaciones
+VAR
+	INT calificacion1
+	INT calificacion2
+	INT calificacion3
+	INT calificacion4
+	INT calificacion5
+INICIO
+	ESCRIBIR("dame las 5 calificaciones y el promedio")
+	LEER(calificacion1);
+	LEER(calificacion2);
+	LEER (calificacion3);
+	LEER (calificacion4);
+	LEER (calificacion5);
+	promedio = calificacion1, calificacion2, calificacion3, calificacion4, calificacion5
+	ESCRIBIR("el promedio es:, promedio")
+FIN
