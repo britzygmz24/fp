@@ -1,0 +1,22 @@
+/* Pseudocodigo dos
+britzy gomez
+ITPA
+TICS
+programa 2 suma de dos numeros
+
+imprimir el resultado
+*/
+
+Algoritmo suma;
+VAR
+	INT numero1;
+	INT numero2;
+	INT resultado;
+
+INICIO
+	ESCRIBIR("dame los dos numeros")
+	LEER(numero1);
+	LEER(numero2);
+	resultado = numero1 + numero2;
+	ESCRIBIR("el resultado es:,resultado")
+FIN
