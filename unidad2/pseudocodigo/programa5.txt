@@ -1,0 +1,22 @@
+/* programa 2 pseudocodigo
+britzy gomez
+ITPA
+TICS
+programa que pida nombre y edad y que imprima la persona mas grande
+*/
+Algoritmo imprimirlaedadmayor
+CARACTER nombre1;
+CARACTER nombre2;
+CARACTER edad34;
+CARACTER edad22;
+INICIO
+	ESCRIBIR(nombre1);
+	ESCRIBIR(nombre2);
+	ESCRIBIR(edad34);
+	ESCRIBIR(edad22);
+	LEER(edad34);
+	LEER(edad22);
+	IF si edad34 es mayor que edad22 entonces que imprima su valor
+	IF edad34 > edad22;
+	print (edad34)
+FIN
