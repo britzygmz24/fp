@@ -1,0 +1,12 @@
+/* programa 2 pseudocodigo
+britzy gomez
+ITPA
+TICS
+programa que da 5 opciones de peliculas e imprima el nombre de una pelicula
+*/
+Algoritmo imprimirelnombredeunapelicula
+INICIO
+CARACTER
+	peliculas [host, the unholy, us, it, witches];
+	print peliculas [0,2]
+FIN
