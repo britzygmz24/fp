@@ -1,0 +1,16 @@
+/* programa 2 pseudocodigo
+britzy gomez
+ITPA
+TICS
+programa que pide un numero e imprime su nombre la cantidad de veces del numero
+*/
+Algoritmo imprimirelnombredelnumerolacantidaddevecesdelnumero
+
+INT numero4
+INICIO
+	ESCRIBIR("¿cual es el numero?")
+	LEER(el numero);
+	ESCRIBIR(el numero);
+	ELSE PRINT("en un renglon escribir el numero y su nombre cuatro veces")
+FIN
+
