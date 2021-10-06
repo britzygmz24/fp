@@ -1,0 +1,16 @@
+/* programna 1 pseudocodigo
+britzy gomez
+ITPA
+TICS
+programa que pide 3 numeros e imprime el numero mayor
+*/
+Algoritmo imprimirelnumeromayor
+VAR
+	INT numero1 = 15
+	INT numero2 = 20
+	INT numero3 = 350
+INICIO
+	IF si numero3 es mayor que numero1 entonces que imprima su valor
+	IF numero3 > numero1;
+	print (numero3)
+FIN
