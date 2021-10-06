@@ -1,0 +1,14 @@
+/* programa 2 pseudocodigo
+britzy gomez
+ITPA
+TICS
+programa que pida calificaciones y muestre si esta aprobado o reprobado el alumno
+*/
+Algoritmo calificacionesaprobadasoreprobadas
+INICIO
+AVERAGE(8, 9, 10);
+	INT calificacion1 = 8
+	INT calificacion2 = 9
+	INT calificacion3 = 10
+	ESCRIBIR("dame las calificaciones y el promedio aprobado o reprobado")
+FIN
