@@ -1,0 +1,13 @@
+Algoritmo dospalabras
+	Definir b1,b2 como caracter
+	Escribir "escribe la primera palabra"
+	Leer b1
+	Escribir "escribe la segunda una palabra"
+	Leer b2
+	Si longitud(b1)>longitud(b2) entonces 
+		Escribir b1
+	Sino 
+		Escribir b2
+	FinSi
+	
+FinAlgoritmo
