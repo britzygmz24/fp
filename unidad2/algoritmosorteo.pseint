@@ -1,0 +1,6 @@
+Algoritmo sorteo
+	Definir x como entero 
+	x=azar(10000)+1
+	Escribir "el numero sorteado es (x)"
+	
+FinAlgoritmo
